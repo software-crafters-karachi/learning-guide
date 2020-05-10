@@ -9,7 +9,7 @@ https://www.facebook.com/groups/570463523588860
 ## Past Meet-ups
 
 
-#### :woman_astronaut: 2020.06.09 - Code Smells, 'Tell, Don't Ask'
+#### :space_invader: 2020.06.09 - Code Smells, 'Tell, Don't Ask'
 
 **Recording:** https://youtu.be/j5xkBr2plNI
 
@@ -17,7 +17,7 @@ https://www.facebook.com/groups/570463523588860
 
 **Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
 
-#### :space_invader: 2020.06.02 - Refactoring
+#### :woman_astronaut: 2020.06.02 - Refactoring
 
 **Recording:** https://youtu.be/VDN8FIXqFZg
 
