@@ -8,6 +8,11 @@ https://www.facebook.com/groups/570463523588860
 
 ## Past Meet-ups
 
+#### :zap: 2020.06.17 - Lightning Talks & Lean Coffee
+
+Lightning talks:
+1. **Effective Listening** by [@hammad096](https://github.com/hammad096)
+2. **TDD** by [@fahadakhan96](https://github.com/fahadakhan96)
 
 #### :space_invader: 2020.06.09 - Code Smells, 'Tell, Don't Ask'
 
