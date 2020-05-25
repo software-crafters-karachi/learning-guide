@@ -6,7 +6,7 @@ We usually follow the practices listed below in our kata meet-ups, unless stated
 
 > "For an idea to go from your head into the computer it MUST go through someone else's hands"
 
-We work on katas in pairs or groups/mobs, usually in a hybrid of driver/navigator & strong-styled pairing. Read more about pair programming [here](https://martinfowler.com/articles/on-pair-programming.html).
+We work on katas in pairs or groups/mobs, usually in a hybrid of driver/navigator & strong-styled pairing. Read more about pair programming on [Martin Fowler's blog](https://martinfowler.com/articles/on-pair-programming.html).
 
 ## 2. Keep tests in the green :vertical_traffic_light:
 
