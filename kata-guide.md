@@ -8,7 +8,11 @@ We...
 
 > "For an idea to go from your head into the computer it MUST go through someone else's hands"
 
-We work on katas in pairs or groups/mobs, usually in a hybrid of driver/navigator & strong-styled pairing. Read more about pair programming on [Martin Fowler's blog](https://martinfowler.com/articles/on-pair-programming.html).
+We work on katas in pairs or groups/mobs, usually in a hybrid of driver/navigator & strong-styled pairing.
+
+One partner (the driver) is at the keyboard, and is sharing their screen if remote. The remaining members navigate - they share intent with the driver, which the driver then translates into code. Every 5-10, we rotate roles.
+
+Read more about pair programming on [Martin Fowler's blog](https://martinfowler.com/articles/on-pair-programming.html).
 
 ## 2. Keep tests in the green :vertical_traffic_light:
 
