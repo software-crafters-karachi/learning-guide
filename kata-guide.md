@@ -1,6 +1,8 @@
 # Kata Guidelines
 
-We usually follow the practices listed below in our kata meet-ups, unless stated otherwise.
+We usually follow the practices listed in our kata meet-ups, unless mentioned otherwise.
+
+We...
 
 ## 1. Code in pairs (or mobs) :paw_prints:
 
