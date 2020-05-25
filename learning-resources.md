@@ -22,6 +22,10 @@ Link to book & video series.
 
 ## Legacy Code
 
+## Selective Reading
+
+- Study path
+
 ## Slack
 
 Join [Software Crafters on Slack](http://slack.softwarecraftsmanship.org/).
