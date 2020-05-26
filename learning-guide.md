@@ -8,15 +8,23 @@ Below is a list of resources (books, YouTube videos, Slack groups, Twitter handl
 
 ### Clean Code
 
-<img src="/images/clean-code-cover.jpg" width="100">
+- **Clean Code** by Robert C. Martin
 
-Check out **Clean Code** by Robert C. Martin, or alternatively the **Clean Coder Video Series**.
+Alternative: The **Clean Coder Video Series**
+
+<img src="/images/clean-code-cover.jpg" width="100">
 
 ### Test-Driven Development
 
 Books:
 - **Test-Driven Development: By Example** by Kent Beck
 - **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman, Nat Pryce
+
+### Refactoring
+
+Books:
+- **Refactoring** by Martin Fowler
+- **Working Effectively with Legacy Code** by Michael C. Feathers
 
 ## Learning by practice
 
@@ -35,13 +43,7 @@ Table of contents from Technical Agile Practices Distilled:
 - [kata-log.rocks](https://kata-log.rocks/)
 - Emily Bache's [GitHub page](https://github.com/emilybache), or her book: **The Coding Dojo Handbook**
 
-## Beyond Clean Code & TDD: Refactoring, Legacy Code, DDD...
-
-### Study Path
-
-This [Study Path](https://github.com/joebew42/study-path) by @joebew42 identifies chapters to read through classical works such The Pragmatic Programmer, Working Effectively with Legacy Code, Refactoring...
-
-### Extreme Programming
+## Extreme Programming
 
 Books:
 - **Accelerate** (or **State of DevOps Report**) by Gene Kim, Jez Humble
@@ -50,9 +52,18 @@ Books:
 
 <img src="/images/accelerate-cover.jpg" width="100">
 
-### Building for production
+### Pair/Mob Programming
+
+- [martinfowler.com - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+- [Mob Programming: A Whole Team Approach](https://leanpub.com/mobprogramming) by Woody Zuill
+
+## Building for production
 
 **Release It!** by Micheal T. Nygard defines patterns for building production-ready applications.
+
+## Study Path
+
+This [Study Path](https://github.com/joebew42/study-path) by @joebew42 identifies chapters to read through classical works such The Pragmatic Programmer, Working Effectively with Legacy Code, Refactoring...
 
 ## Slack
 
