@@ -1,6 +1,8 @@
 # Learning Guide for Software Crafters
 
-Are passionate about building high-quality software, writing maintainable code, understanding business problems and delivering continuously? The following resources will help you get started.
+Are you passionate about building high-quality software, writing maintainable code, understanding business problems and delivering continuously?
+
+We've put together a set of resources (books, Slack groups, Twitter handles, YouTube videos...) to help you get started. The list is by no means exhaustive; it is meant to introduce you to the different avenues where you can learn more.
 
 ## Topics overview
 
@@ -32,11 +34,13 @@ Join [Software Crafters on Slack](http://slack.softwarecraftsmanship.org/).
 
 Check out the following talks from Sandi Metz, the author of Practical Object-Oriented Design in Ruby: [All the Little Things](https://youtu.be/8bZh5LMaSmE), [Nothing is Something](https://youtu.be/29MAL8pJImQ)
 
+## Courses
+
+J.B. Rainsberger - [The World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01)
+
 ## People to follow
 
 - Martin Fowler [twitter](https://twitter.com/martinfowler)
 - Kent Beck [twitter](https://twitter.com/KentBeck)
 - Jez Humble [twitter](https://twitter.com/jezhumble)
 - Uncle Bob Martin [twitter](https://twitter.com/unclebobmartin)
-- Sandi Metz - Author of , YouTube videos:...
-- J.B. Rainsberger - [The World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01) course
