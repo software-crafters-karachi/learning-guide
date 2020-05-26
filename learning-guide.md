@@ -81,7 +81,7 @@ J.B. Rainsberger - [The World's Best Intro to TDD](https://online-training.jbrai
 
 ## Twitter
 
-- [Martin Fowler](https://twitter.com/martinfowler)
-- [Kent Beck](https://twitter.com/KentBeck)
-- [Jez Humble](https://twitter.com/jezhumble)
-- [Uncle Bob Martin](https://twitter.com/unclebobmartin)
+- [Martin Fowler](https://twitter.com/martinfowler) - author of Refactoring
+- [Kent Beck](https://twitter.com/KentBeck) - author & creator of Extreme Programming
+- [Jez Humble](https://twitter.com/jezhumble) - author of Continuous Delivery, The DevOps Handbook
+- [Uncle Bob Martin](https://twitter.com/unclebobmartin) - author of Clean Coder series
