@@ -2,7 +2,7 @@
 
 Are you passionate about building high-quality software, writing maintainable code, understanding business problems and delivering continuously?
 
-We've put together a set of resources (books, Slack groups, Twitter handles, YouTube videos...) to help you get started. The list is by no means exhaustive; it is meant to introduce you to the different avenues where you can learn more.
+Below is a list of resources (books, YouTube videos, Slack groups, Twitter handles...) to help get started.
 
 ## Getting started: Clean Code
 
@@ -41,12 +41,12 @@ This [Study Path](https://github.com/joebew42/study-path) by @joebew42 identifie
 
 ### Extreme Programming
 
-<img src="/images/accelerate-cover.jpg" width="100">
-
 Books:
 - **Accelerate** (or **State of DevOps Report**) by Gene Kim, Jez Humble
 - **Extreme Programming Explained** by Kent Beck
 - **The Art of Agile Development** by James Shore
+
+<img src="/images/accelerate-cover.jpg" width="100">
 
 ### Building for production
 
@@ -58,7 +58,9 @@ Join the [Software Crafters community](http://slack.softwarecraftsmanship.org/) 
 
 ## Conference talks
 
-Check out the following talks from Sandi Metz, the author of Practical Object-Oriented Design in Ruby: [All the Little Things](https://youtu.be/8bZh5LMaSmE), [Nothing is Something](https://youtu.be/29MAL8pJImQ)
+Talks by Sandi Metz, the author of Practical Object-Oriented Design in Ruby:
+- [All the Little Things](https://youtu.be/8bZh5LMaSmE)
+- [Nothing is Something](https://youtu.be/29MAL8pJImQ)
 
 ## Courses
 
