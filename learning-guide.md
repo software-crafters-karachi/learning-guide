@@ -4,9 +4,21 @@ Are you passionate about building high-quality software, writing maintainable co
 
 We've put together a set of resources (books, Slack groups, Twitter handles, YouTube videos...) to help you get started. The list is by no means exhaustive; it is meant to introduce you to the different avenues where you can learn more.
 
-## Topics overview
+## Getting started: Clean Code
+
+Check out **Clean Code** by Robert C. Martin, or alternatively the **Clean Coder Video Series**.
+
+## Test-Driven Development
+
+Books:
+- **Test-Driven Development: By Example** by Kent Beck
+- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman, Nat Pryce
+
+## Learning by practice
 
 > "Programming is a skill best acquired by practice and example", Alan Turing
+
+### Technical Agile Practices Distilled
 
 [Technical Agile Practices Distilled](https://leanpub.com/agiletechnicalpracticesdistilled) is a succinct, practical manual for everything from Pair Programming & TDD to Domain-Driven Design. In the book, each topic is proceeded by practical exercises (katas).
 
@@ -14,7 +26,12 @@ Table of contents from Technical Agile Practices Distilled:
 
 ![Agile Technical Practices Distilled - Contents](/images/agile-technical-practices-distilled-contents.png)
 
-## Study Path for Clean Code, TDD, Refactoring, Legacy Code...
+### More Katas
+
+- [kata-log.rocks](https://kata-log.rocks/)
+- Emily Bache's [GitHub page](https://github.com/emilybache), or her book: **The Coding Dojo Handbook**
+
+## Study Path for Clean Code, TDD, Refactoring, Legacy Code, DDD...
 
 https://github.com/joebew42/study-path
 
