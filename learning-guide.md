@@ -6,6 +6,8 @@ We've put together a set of resources (books, Slack groups, Twitter handles, You
 
 ## Getting started: Clean Code
 
+<img src="/images/clean-code-cover.jpg" width="100">
+
 Check out **Clean Code** by Robert C. Martin, or alternatively the **Clean Coder Video Series**.
 
 ## Test-Driven Development
@@ -31,21 +33,28 @@ Table of contents from Technical Agile Practices Distilled:
 - [kata-log.rocks](https://kata-log.rocks/)
 - Emily Bache's [GitHub page](https://github.com/emilybache), or her book: **The Coding Dojo Handbook**
 
-## Study Path for Clean Code, TDD, Refactoring, Legacy Code, DDD...
+## Beyond Clean Code & TDD: Refactoring, Legacy Code, DDD...
 
-https://github.com/joebew42/study-path
+### Study Path
 
-## Extreme Programming
+This [Study Path](https://github.com/joebew42/study-path) by @joebew42 identifies chapters to read through classical works such The Pragmatic Programmer, Working Effectively with Legacy Code, Refactoring...
+
+### Extreme Programming
 
 <img src="/images/accelerate-cover.jpg" width="100">
 
-- Accelerate (or State of DevOps Report) by Gene Kim, Jez Humble
-- Extreme Programming Explained by Kent Beck
-- The Art of Agile Development by James Shore
+Books:
+- **Accelerate** (or **State of DevOps Report**) by Gene Kim, Jez Humble
+- **Extreme Programming Explained** by Kent Beck
+- **The Art of Agile Development** by James Shore
+
+### Building for production
+
+**Release It!** by Micheal T. Nygard defines patterns for building production-ready applications.
 
 ## Slack
 
-Join [Software Crafters on Slack](http://slack.softwarecraftsmanship.org/).
+Join the [Software Crafters community](http://slack.softwarecraftsmanship.org/) on Slack.
 
 ## Conference talks
 
@@ -55,9 +64,9 @@ Check out the following talks from Sandi Metz, the author of Practical Object-Or
 
 J.B. Rainsberger - [The World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01)
 
-## People to follow
+## Twitter
 
-- Martin Fowler [twitter](https://twitter.com/martinfowler)
-- Kent Beck [twitter](https://twitter.com/KentBeck)
-- Jez Humble [twitter](https://twitter.com/jezhumble)
-- Uncle Bob Martin [twitter](https://twitter.com/unclebobmartin)
+- [Martin Fowler](https://twitter.com/martinfowler)
+- [Kent Beck](https://twitter.com/KentBeck)
+- [Jez Humble](https://twitter.com/jezhumble)
+- [Uncle Bob Martin](https://twitter.com/unclebobmartin)
