@@ -4,13 +4,15 @@ Are you passionate about building high-quality software, writing maintainable co
 
 Below is a list of resources (books, YouTube videos, Slack groups, Twitter handles...) to help get started.
 
-## Getting started: Clean Code
+## Getting started
+
+### Clean Code
 
 <img src="/images/clean-code-cover.jpg" width="100">
 
 Check out **Clean Code** by Robert C. Martin, or alternatively the **Clean Coder Video Series**.
 
-## Test-Driven Development
+### Test-Driven Development
 
 Books:
 - **Test-Driven Development: By Example** by Kent Beck
@@ -20,7 +22,7 @@ Books:
 
 > "Programming is a skill best acquired by practice and example", Alan Turing
 
-### Technical Agile Practices Distilled
+### Book: Technical Agile Practices Distilled
 
 [Technical Agile Practices Distilled](https://leanpub.com/agiletechnicalpracticesdistilled) is a succinct, practical manual for everything from Pair Programming & TDD to Domain-Driven Design. In the book, each topic is proceeded by practical exercises (katas).
 
@@ -60,7 +62,7 @@ Join the [Software Crafters community](http://slack.softwarecraftsmanship.org/) 
 
 Talks by Sandi Metz, the author of Practical Object-Oriented Design in Ruby:
 - [All the Little Things](https://youtu.be/8bZh5LMaSmE)
-- [Nothing is Something](https://youtu.be/29MAL8pJImQ)
+- [Nothing is Something](https://youtu.be/OMPfEXIlTVE)
 
 ## Courses
 
