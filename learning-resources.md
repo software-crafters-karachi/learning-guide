@@ -12,21 +12,17 @@ The following resources will help you get started on your journey.
 
 ![Agile Technical Practices Distilled - Contents](/images/agile-technical-practices-distilled-contents.png)
 
-## Clean Code
+## Study Path for Clean Code, TDD, Refactoring, Legacy Code...
 
-Link to book & video series.
+https://github.com/joebew42/study-path
 
 ## Extreme Programming
 
-- TDD
-- Accelerate
-- The Art of Agile Development
+<img src="/images/accelerate-cover.jpg" width="100">
 
-## Legacy Code
-
-## Selective Reading
-
-- Study path
+- Accelerate (or State of DevOps Report) by Gene Kim, Jez Humble
+- Extreme Programming Explained by Kent Beck
+- The Art of Agile Development by James Shore
 
 ## Slack
 
@@ -34,12 +30,9 @@ Join [Software Crafters on Slack](http://slack.softwarecraftsmanship.org/).
 
 ## People to follow
 
-Sandi Metz - Book on OOP, YouTube videos on All the Little Things, Nothing is Something...
-
-J.B. Rainsberger - World's best TDD course
-
-Martin Fowler - blog on Pair Programming
-
-Kent Beck 
-
-Jez Humble
+- Martin Fowler [twitter](https://twitter.com/martinfowler)
+- Kent Beck [twitter](https://twitter.com/KentBeck)
+- Jez Humble [twitter](https://twitter.com/jezhumble)
+- Uncle Bob Martin [twitter](https://twitter.com/unclebobmartin)
+- Sandi Metz - Author of Practical Object-Oriented Design in Ruby, YouTube videos: [All the Little Things](https://youtu.be/8bZh5LMaSmE), [Nothing is Something](https://youtu.be/29MAL8pJImQ)...
+- J.B. Rainsberger - [The World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01) course
