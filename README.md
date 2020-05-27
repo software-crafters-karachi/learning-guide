@@ -1,55 +1,87 @@
-# Software Crafters Karachi - Meet-ups
+# Learning Guide for Software Crafters
 
-This is a community for those who care and are proud of what they do. For those developers, regardless how experienced they are, who want to improve and master their craft.
+Are you passionate about building high-quality software, writing maintainable code, understanding business problems and delivering continuously?
 
-## Discussion & Upcoming Events
-https://www.facebook.com/groups/570463523588860
+Below is a list of resources (books, YouTube videos, Slack groups, Twitter handles...) to help get started.
 
+## Getting started
 
-## Past Meet-ups
+### Clean Code
 
-#### :factory: 2020.05.23 - Design Patterns
+- **Clean Code** by Robert C. Martin
 
-We started with an initial discussion on design patterns, their advantages & pit-falls.
+Alternative: The **Clean Coder Video Series**
 
-Teams then picked 1 pattern each and proceeded to breakout rooms to research & implement their respective pattern. A refactoring kata was provided for each pattern.
+<img src="/images/clean-code-cover.jpg" width="100">
 
-Finally, teams presented their pattern & kata to the larger group.
+### Test-Driven Development
 
-**Recording:** https://youtu.be/V4A0rs7MO-w
+Books:
+- **Test-Driven Development: By Example** by Kent Beck
+- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman, Nat Pryce
 
-**Kata:** https://github.com/software-crafters-khi/refactoring-kata.git
+### Refactoring
 
-**Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
+Books:
+- **Refactoring** by Martin Fowler
+- **Working Effectively with Legacy Code** by Michael C. Feathers
 
-#### :zap: 2020.05.17 - Lightning Talks & Lean Coffee
+## Learning by practice
 
-Lightning talks:
-1. **Effective Listening** by [@hammad096](https://github.com/hammad096)
-2. **TDD** by [@fahadakhan96](https://github.com/fahadakhan96)
+> "Programming is a skill best acquired by practice and example", Alan Turing
 
-#### :space_invader: 2020.05.09 - Code Smells, 'Tell, Don't Ask'
+### Book: Technical Agile Practices Distilled
 
-**Recording:** https://youtu.be/j5xkBr2plNI
+[Technical Agile Practices Distilled](https://leanpub.com/agiletechnicalpracticesdistilled) is a succinct, practical manual for everything from Pair Programming & TDD to Domain-Driven Design. In the book, each topic is proceeded by practical exercises (katas).
 
-**Kata:** https://github.com/lamakq/tell-dont-ask-kata
+Table of contents from Technical Agile Practices Distilled:
 
-**Slides:** https://docs.google.com/presentation/d/1EfAvBSQ-DTsUftXQpCv648_rbwAOEGpVsa8emvpbit0
+![Agile Technical Practices Distilled - Contents](/images/agile-technical-practices-distilled-contents.png)
 
-#### :woman_astronaut: 2020.05.02 - Refactoring
+### More Katas
 
-**Recording:** https://youtu.be/VDN8FIXqFZg
+- [kata-log.rocks](https://kata-log.rocks/)
+- Emily Bache's [GitHub page](https://github.com/emilybache), or her book: **The Coding Dojo Handbook**
 
-**Kata:** https://github.com/lamakq/Tennis-Refactoring-Kata
+## Extreme Programming
 
-**Slides:** https://docs.google.com/presentation/d/1pAmc2hAZi1oCvWLteH3irO09KFPlzWxXXo4Nqp5-1jU
+Books:
+- **Accelerate** (or **State of DevOps Report**) by Gene Kim, Jez Humble
+- **Extreme Programming Explained** by Kent Beck
+- **The Art of Agile Development** by James Shore
 
-#### :artificial_satellite: 2020.04.25 - TDD, Object Calisthenics
+<img src="/images/accelerate-cover.jpg" width="100">
 
-**Kata:** https://github.com/Jozeb/bowling-kata-tdd
+### Pair/Mob Programming
 
-**Slides:** https://docs.google.com/presentation/d/1UWcJugHg2OWpmZAfxZ-au8E7mRpTxvXMO7vNR4GUqUE/edit#slide=id.p
+- [martinfowler.com - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+- [Mob Programming: A Whole Team Approach](https://leanpub.com/mobprogramming) by Woody Zuill
 
-#### :rocket: 2020.04.18 - Pair-Programming, TDD
+## Building for production
 
-**Kata:** https://github.com/Jozeb/tic_tac_toe_kata
+**Release It!** by Micheal T. Nygard defines patterns for building production-ready applications.
+
+## Study Path
+
+This [Study Path](https://github.com/joebew42/study-path) by @joebew42 identifies chapters to read through classical works such The Pragmatic Programmer, Working Effectively with Legacy Code, Refactoring...
+
+## Slack
+
+Join the [Software Crafters community](http://slack.softwarecraftsmanship.org/) on Slack.
+
+## Conference talks
+
+Talks by Sandi Metz, the author of Practical Object-Oriented Design in Ruby:
+- [All the Little Things](https://youtu.be/8bZh5LMaSmE)
+- [Nothing is Something](https://youtu.be/OMPfEXIlTVE)
+
+## Courses
+
+J.B. Rainsberger - [The World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01)
+
+## Twitter
+
+- [Martin Fowler](https://twitter.com/martinfowler) - author of Refactoring
+- [Kent Beck](https://twitter.com/KentBeck) - author & creator of Extreme Programming
+- [Jez Humble](https://twitter.com/jezhumble) - author of Continuous Delivery, The DevOps Handbook
+- [Uncle Bob Martin](https://twitter.com/unclebobmartin) - author of Clean Coder series
