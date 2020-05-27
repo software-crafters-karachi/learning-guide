@@ -46,7 +46,7 @@ Table of contents from Technical Agile Practices Distilled:
 
 ### Pair/Mob Programming
 
-- [martinfowler.com - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
+- ['On Pair Programming' - martinfowler.com](https://martinfowler.com/articles/on-pair-programming.html)
 - :book: [Mob Programming: A Whole Team Approach](https://leanpub.com/mobprogramming) by Woody Zuill
 
 ## Building for production
@@ -63,7 +63,7 @@ Join the [Software Crafters community](http://slack.softwarecraftsmanship.org/) 
 
 ## Conference talks
 
-Talks by Sandi Metz, the author of Practical Object-Oriented Design in Ruby:
+Talks by Sandi Metz, the author of 'Practical Object-Oriented Design in Ruby: An Agile Primer':
 - [All the Little Things](https://youtu.be/8bZh5LMaSmE)
 - [Nothing is Something](https://youtu.be/OMPfEXIlTVE)
 
