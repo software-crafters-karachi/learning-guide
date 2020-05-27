@@ -8,29 +8,24 @@ Below is a list of resources (books, YouTube videos, Slack groups, Twitter handl
 
 ### Clean Code
 
-- **Clean Code** by Robert C. Martin
-
-Alternative: The **Clean Coder Video Series**
-
-<img src="/images/clean-code-cover.jpg" width="100">
+- :book: **Clean Code** by Robert C. Martin
+- The **Clean Coder Video Series**
 
 ### Test-Driven Development
 
-Books:
-- **Test-Driven Development: By Example** by Kent Beck
-- **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman, Nat Pryce
+- :book: **Test-Driven Development: By Example** by Kent Beck
+- :book: **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman, Nat Pryce
 
 ### Refactoring
 
-Books:
-- **Refactoring** by Martin Fowler
-- **Working Effectively with Legacy Code** by Michael C. Feathers
+- :book: **Refactoring** by Martin Fowler
+- :book: **Working Effectively with Legacy Code** by Michael C. Feathers
 
 ## Learning by practice
 
 > "Programming is a skill best acquired by practice and example", Alan Turing
 
-### Book: Technical Agile Practices Distilled
+### :book: Technical Agile Practices Distilled
 
 [Technical Agile Practices Distilled](https://leanpub.com/agiletechnicalpracticesdistilled) is a succinct, practical manual for everything from Pair Programming & TDD to Domain-Driven Design. In the book, each topic is proceeded by practical exercises (katas).
 
@@ -41,25 +36,22 @@ Table of contents from Technical Agile Practices Distilled:
 ### More Katas
 
 - [kata-log.rocks](https://kata-log.rocks/)
-- Emily Bache's [GitHub page](https://github.com/emilybache), or her book: **The Coding Dojo Handbook**
+- Emily Bache's [GitHub page](https://github.com/emilybache), or her book: :book: **The Coding Dojo Handbook**
 
 ## Extreme Programming
 
-Books:
-- **Accelerate** (or **State of DevOps Report**) by Gene Kim, Jez Humble
-- **Extreme Programming Explained** by Kent Beck
-- **The Art of Agile Development** by James Shore
-
-<img src="/images/accelerate-cover.jpg" width="100">
+- :book: **Accelerate** (or **State of DevOps Report**) by Gene Kim, Jez Humble
+- :book: **Extreme Programming Explained** by Kent Beck
+- :book: **The Art of Agile Development** by James Shore
 
 ### Pair/Mob Programming
 
 - [martinfowler.com - On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
-- [Mob Programming: A Whole Team Approach](https://leanpub.com/mobprogramming) by Woody Zuill
+- :book: [Mob Programming: A Whole Team Approach](https://leanpub.com/mobprogramming) by Woody Zuill
 
 ## Building for production
 
-**Release It!** by Micheal T. Nygard defines patterns for building production-ready applications.
+- :book: **Release It!** by Micheal T. Nygard defines patterns for building production-ready applications.
 
 ## Study Path
 
